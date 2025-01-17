@@ -1,1 +1,2 @@
-# chrom-scroll-zoom
+# chrome scroll zoom for mac
+
